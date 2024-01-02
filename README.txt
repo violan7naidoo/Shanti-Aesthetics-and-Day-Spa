@@ -1,13 +1,10 @@
 
 
-
+By Violan Naidoo
 
 
 
 CREDITS:
-
-Pictures
-https://unsplash.com/
 
 Bootstrap
 http://getbootstrap.com/
@@ -24,7 +21,7 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Icomoon
+Icons
 https://icomoon.io/app/
 https://fontawesome.com/
 
