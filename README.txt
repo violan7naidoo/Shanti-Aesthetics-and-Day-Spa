@@ -1,15 +1,13 @@
-TITLE: 
-Voltage - Responsive Free HTML5 template
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
+
 
 
 CREDITS:
+
+Pictures
+https://unsplash.com/
 
 Bootstrap
 http://getbootstrap.com/
@@ -28,6 +26,10 @@ https://www.google.com/fonts/
 
 Icomoon
 https://icomoon.io/app/
+https://fontawesome.com/
+
+TITLE: 
+Voltage - Responsive Free HTML5 template
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
